@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Philly Food Finder
 
 You can use the [editor on GitHub](https://github.com/marypham2/didactic-barnacle/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
